@@ -1,0 +1,17 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+url: https://trust.thanksben.com/
+platform: Vanta
+# Ben publishes a Vanta-hosted Trust Center. The page returns HTTP 200 and is a
+# genuine trust/compliance surface (meta keywords: Trust, Security, Compliance).
+# Named certifications are served client-side via the gated Vanta trust-report API
+# (api.vanta.com returned 401 without a viewer NDA/access grant), so specific
+# framework names (e.g. SOC 2 / ISO 27001) could not be verified from the public
+# surface and are NOT asserted here — no fabrication. Request access via the page
+# to see the underlying reports.
+certifications: []
+evidence:
+- source: https://trust.thanksben.com/
+  status: 200
+  keywords: [trust, security, compliance]

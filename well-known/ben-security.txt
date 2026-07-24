@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# security.txt
+# Thanks for taking the time to disclose responsibly!
+
+Canonical: https://thanksben.com/.well-known/security.txt
+
+# You can reach us at
+Contact: mailto:security.disclosures@thanksben.com
+
+# You can use this PGP key
+Encryption: https://thanksben.com/.well-known/public_key.txt
+Encryption: openpgp4fpr:CEA1D278FBFF0ED086A7E60812874252D67742BE
+
+# We're hiring at
+Hiring: https://thanksben.com/careers
+
+Expires: 2028-01-01T12:00:00.000Z
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCAA5FiEEzqHSePv/DtCGp+YIEodCUtZ3Qr4FAmlWYjkbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMiwxAAoJEBKHQlLWd0K+j6QQAJt8zMLgQEc9yNJjvqx8
+ppd9PUE9FtygLjF5mgiU4mbQp4dHmYAS9ENay2DvB6FCsS2NgbYENogQFvSKaDY9
+pwbDPoqLx9b+lbIDbPpLaxC0T40/KPSptYFxJqAbhc+xRlfQ15kTYT7mFFxxDgOr
+SqK/bPgJ/1R+VCb3uEoFP/yDPLt9WzzbAaUow0dLvC1p1xyh0LunOOUAXTXfalPP
+fHiMwuaYvTixoat6TrdajbFUBbBUDnI0BbeemaRvm65EtTjSVr2TIXl6dGYcKcrV
+xFiixRDQbdIzp+OlBj5INg1PP2CkIKWeXfiyiQ+MU0vq4apO1yQyP0QBZefqPR8d
+qOKjYDSM/i2A2EjU9njuIB8MmFVXwad0mWdpV1aU7WtVimwVEVvaui7uoXzfPj9g
+tjYnKVJSPFUdTl9ERoDdNXAZSQ0rmKbAAgsxZ+kGmphb8PuQB7JA4KSAB0lIvDw1
+FUKKaPl451MDocElHsPQEYP3UZjV/lLXxcmYl8w5PPDrfTMTzmL3FoyrUxBnMwkX
+PZvzpBtAwdsFLWUSmaWDZAVsPWez4WS/92ECIO9ncU6EqW49nc/XohhaK9hE8gsL
+OEvJl9RT0+AILSeJqmrDJxcQIstGhrUwKZ51sM1qC57mHYZtar9ECtDh8DQDLTCs
+aErTvUdVsAaT0VOn1P+oJoI+
+=UJdi
+-----END PGP SIGNATURE-----

@@ -1,0 +1,18 @@
+generated: '2026-07-18'
+method: searched
+source: https://thanksben.com/.well-known/
+host: https://thanksben.com
+documents:
+- path: /.well-known/security.txt          # RFC 9116
+  status: 200
+  file: ben-security.txt
+- path: /.well-known/public_key.txt         # PGP key referenced by security.txt Encryption:
+  status: 200
+- path: /.well-known/openid-configuration   # OIDC discovery
+  status: 404
+- path: /.well-known/oauth-authorization-server  # RFC 8414
+  status: 404
+- path: /.well-known/api-catalog            # RFC 9727
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
